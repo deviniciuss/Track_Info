@@ -5,8 +5,8 @@ Site that receives an encrypted info, it's decrypted, and stored in the database
 The site has the goal to get information regarding the usage of different browsers, the different screen resolutions, if it's accessed from a mobile device, etc. But that information has to be in Hexadecimal notation, if the hash has some value undefined, or less than is expected, it is not added to database.
 
 # Visuals
-![](https://github.com/deviniciuss/Track_Info/blob/main/images/trackinfo_pc.gif)
-<img src="https://github.com/deviniciuss/Track_Info/blob/main/images/trackinfo_phone.gif" width="200" height="300" />
+![](https://github.com/deviniciuss/Track_Info/blob/main/assets/images/trackinfo_pc.gif)
+<img src="https://github.com/deviniciuss/Track_Info/blob/main/assets/images/trackinfo_phone.gif" width="200" height="300" />
 
 
 
